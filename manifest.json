@@ -1,0 +1,16 @@
+{
+  "description": "?",
+  "short_name": "?",
+  "name": "?",
+  "icons": [
+    {
+      "src":"src.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/hanumachalisa/index.html",
+  "background_color": "#000",
+  "theme_color": "#536878",
+  "display": "standalone"
+}
