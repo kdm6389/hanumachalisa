@@ -4,6 +4,6 @@
 
 or
 
-[try this](https://htmlpreview.github.io/?https://github.com/kdm6389/hanumachalisa/blob/main/index.html)
+[try this](https://htmlpreview.github.io/?https://github.com/kdm6389/hanumachalisa/blob/main/main.html)
 
 
